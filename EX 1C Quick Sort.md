@@ -13,8 +13,8 @@ To write a python program to implement quick sort using tha last element as pivo
 ## Program:
 ```
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: Karthick Raja K
-Register Number: 212223240066
+Developed by: Popuri Sravani
+Register Number: 212223240117
 ```
 ```python
 def quickSort(arr, low, high):
